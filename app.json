@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Xpentra",
+    "slug": "Xpentra",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Xpentra.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Xpentra.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Xpentra.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.cezanne.Xpentra"
+    },
+    "web": {
+      "favicon": "./assets/Xpentra.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1d9ad2c5-c5fe-41e5-94eb-25e2229c0920"
+      }
+    }
+  }
+}
